@@ -1,0 +1,72 @@
+print: é o comando dos outros
+input: é pergunta 
+=: é recebe
+,: significa mais e + é mais memso kkkkkk
+(): para frases no print 
+'': pra texto no print
+[]: lista
+
+tipos primitivos
+int:numero inteiros 
+float:numero real exp 4.5
+bool:True e False
+str:'Olá' e '7,5'
+('A soma entre {} e {} é igual a {}!'.format(n1,n2,s))
+
+isalnum: alfa numerico 
+isnumeric: numerico
+isalpha: afabetico  
+isupper: letras maioculas
+islower: impresso 
+ 
++: adição
+-: subtração
+*: multiplicação
+/: Divisão
+**: potencia 
+//: divisão inteira 
+%: resto da divisão
+
+sequencia 1 ()
+	  2 **
+	  3 *,/,//,% 
+raiz quadrada numero **(1/2)
+\n: quebra linha 
+end= ' '): continuação do print
+import: importa a programação tudo.
+from: importa só o se quer.
+math: blioteca matematica 
+ceii: aredonda para cima
+floor: arredonda para baixo.
+trunc: vai truncar sem virgula
+pow: potencia 
+sqrt: raz quadrada
+factorial: 
+'hypor: hipotenusa 
+cos:coseno
+sin: seno 
+tan: tagente'
+
+'random: importa elementos 
+choice:uma escola dentro da lista. 
+shuffle: embaralhar'
+
+pygame: criar jogos, ou carregar musicas fotos e videos 
+import pygame
+pygame.init()
+pygame.mixer.music.load('exe021.mp3')
+pygame.mixer.music.play ()
+pygame.event.wait()
+
+Fatiamento de String, Análise com len(tamanho da frase), count(contar quantos tem), find(dizer qual posição), 
+transformações com replace(mudas os nomes), upper(deixar maiusculo), 
+lower(menusculo), capitalize(), title(), strip(remove os espaçãos em excesso), junção com join().
+n.split() 
+a função len() resolverá a expressão e retornará a quantidade de elementos contidos.
+
+O operador IN verifica se o operando a sua esquerda, está contido na lista a sua direita, 
+da mesma forma que o operador NOT IN que verifica o contrário. Estes, são 2 operadores nativo para verificar 
+se um determinado objeto está contido numa lista.
+
+find (encontrar) é o oposto do operador [] . Em vez de pegar um índice e extrair o caractere correspondente, 
+ela pega um caractere e encontra (finds) em qual índice aquele caractere aparece.
